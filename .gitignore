@@ -13,5 +13,5 @@ config.py
 config.js
 
 #chromedriver
-chromedrive.exe
+chromedriver.exe
 
