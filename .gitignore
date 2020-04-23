@@ -1,0 +1,17 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+#vscode config
+.vscode
+
+#pycache
+__pycache__/
+
+#apikeys
+apikeys.py
+config.py
+config.js
+
+#chromedriver
+chromedrive.exe
+
