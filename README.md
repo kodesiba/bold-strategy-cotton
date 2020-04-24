@@ -1,7 +1,5 @@
 # bold-strategy-cotton
 
-Final project for UNC Data Viz, using machine learning to predict the success of college football players in the Draft and the NFL
-
 Drafting Success: Using Machine Learning to Identify Star Players in the 2020 NFL Draft 
 A report brought to you by BOLD STRATEGY COTTON
 Jimmy Brawner, Michael Hargroder, Nathan Kosiba, Chris Marchini
